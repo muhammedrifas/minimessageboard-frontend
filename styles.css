@@ -1,0 +1,44 @@
+.form-bottom p{
+    //background-color: #f5f5f5;
+    //border: 1px solid #e5e5e5;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+
+.form-top-left h3{
+    font-weight: bold;
+}
+
+.top-right label{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.date-label label{
+    color: #aaaaaa;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.msg-content{
+    white-space: pre-wrap;
+}
+
+.delBtn{
+    display: none;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: auto;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.logoutBtn{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
